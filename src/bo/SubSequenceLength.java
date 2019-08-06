@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.stream.IntStream;
 
+/**
+ * Longest Subsequence length ending with the integer present in  array
+ * @author ratan
+ *
+ */
 public class SubSequenceLength {
 
 	public static void main(String[] args) {
